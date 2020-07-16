@@ -11,6 +11,7 @@ O código para retornar 14 numeros aletórios se encontra dentro do arquivo "sci
 Copiar e colar código no console do navegador e apertar enter.
 Após ter feito isso digite gerarNumeros(); e de enter para ver o resultado.
 Conseguie gerar 3 afirmações aleatórias,dizendo se a peça está acima, abaixo ou alinhada de outra peça de acordo com seu numero no index do array á cada execução.
+A matriz pode ser de qualquer tamanho também, ou seja se tiver que retornar mais numeros ela retorna também.
 
 
 ## importante
