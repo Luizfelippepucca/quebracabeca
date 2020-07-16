@@ -14,5 +14,5 @@ Conseguie gerar 3 afirmações aleatórias,dizendo se a peça está acima, abaix
 
 
 ## importante
-
+Não está responsivo.
 Sei que ainda tenho muito a aprender,mas estou muito contente com o resultado que consegui obter de acordo com meus conhecimentos até o momento.
