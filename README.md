@@ -10,7 +10,7 @@ Mas para dar um plus coloquei no nome de usuario de acordo com que o usuario dig
 O código para retornar 14 numeros aletórios se encontra dentro do arquivo "scirpt.js" na parte final.
 Copiar e colar código no console do navegador e apertar enter.
 Após ter feito isso digite gerarNumeros(); e de enter para ver o resultado.
-Conseguie gerar 3 afirmações aleatórias,dizendo se a peça está acima, abaixo ou alinhada de outra peça de acordo com seu numero no index do array.
+Conseguie gerar 3 afirmações aleatórias,dizendo se a peça está acima, abaixo ou alinhada de outra peça de acordo com seu numero no index do array á cada execução.
 
 
 ## importante
