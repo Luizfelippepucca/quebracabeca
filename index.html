@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="estilo.css"/>
+    
+    <title>Quebra-cabeça</title>
+</head>
+<body>
+    <div class="matriz"  id="matriz">
+    <ul class="lista " >
+        <li id="item1"></li>
+        <li id="item2"></li>
+        <li  id="item3"></li>
+        <li  id="item4"></li>
+        <li  id="item5"></li>
+        <li  id="item6"></li>
+        <li id="item7"></li>
+        <li id="item8"></li>
+       
+    </ul>
+    <div class="lista2">
+    <ul class="lista " >
+        <li  id="item9"></li>
+        <li  id="item10"></li>
+        <li  id="item11"></li>
+        <li  id="item12"></li>
+        <li id="item13"></li>
+        <li id="item14"></li>
+    </ul>
+    </div>
+</div>
+<div class=" matriz2"></div>
+ <div class=" rodape">
+     <div class="visor">
+         <div class="cont">
+            Exibição dos itens no visor
+         </div>
+         
+         <input type=" text" id="campo" disabled/>
+    </div>
+    <div class="contBtn">
+        <button  id="botao" type="submit" value="embaralhar" onclick="embaralharLista()">embaralhar</button>
+        <input type=" text" id="usu" disabled="disabled" value="Usuario" maxlength="50"/>
+        <button  id="botao" type="submit" value="embaralhar" onclick="reset()">Resetar</button>
+    </div>
+    
+</div>
+<script type="text/javascript" src="scirpt.js"></script>
+</body>
+</html>
